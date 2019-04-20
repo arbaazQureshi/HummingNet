@@ -1,0 +1,119 @@
+Filename,Query ID,Song ID,Title,Original artist,Class label,,
+q1.wav,q1,1118, Mother natures son, The Beatles, mothernat,q8,q13
+q2.wav,q2,1438, Scarborough fair, Unknown, scarborou,q7,q20
+q3.wav,q3,1546, Stairway to heaven, Led Zeppelin, stairway2h,q6,q10
+q4.wav,q4,1579, Strawberry fields forever, The Beatles, strawberry,q5,q22
+q5.wav,q5,1808, When I am sixty four, The Beatles, whenim64,q27,q34
+q6.wav,q6,2133, More than words, Extreme, morethwor,q1,q25
+q7.wav,q7,2179, The boxer, Simon and Garfunkel, theboxer,q19,q9
+q8.wav,q8,593, Girl, The Beatles, girl,q26,q16
+q9.wav,q9,1224, Ob la di ob la da, The Beatles, obladi,q40,q18
+q10.wav,q10,1576, Strangers in the night, Bert Kaempfert, strangers,q31,q30
+q11.wav,q11,1747, Vivir asi es morir de amor, Camilo Sesto, vivirasies,q17,q29
+q12.wav,q12,19, Across the universe, The Beatles, across,q14,q24
+q13.wav,q13,2133, More than words, Extreme, morethwor,q32,q1
+q14.wav,q14,663, Hello goodbye, The Beatles, hellogoodb,q12,q17
+q15.wav,q15,780, I me mine, The Beatles, imemine,q28,q19
+q16.wav,q16,937, Lestaca, Lluis Llach, lestaca,q53,q8
+q17.wav,q17,96, Cuando los angeles lloran, Mana, angelesll,q11,q14
+q18.wav,q18,995, Love me tender, Poulton and Fosdik, lovemetend,q25,q9
+q19.wav,q19,2086, Cecilia, Simon and Garfunkel, cecilia,q21,q15
+q20.wav,q20,60, Agua de beber, Vinicius de Moraes, aguabeber,q36,q2
+q21.wav,q21,1224, Ob la di ob la da, The Beatles, obladi,q64,q33
+q22.wav,q22,19, Across the universe, The Beatles, across,q23,q36
+q23.wav,q23,2269, Octopuss garden, The Beatles, octopusga,q22,q37
+q24.wav,q24,281, Chica de ayer, Nacha pop, chicaayer,q11,q32
+q25.wav,q25,542, Friday Im in love, The Cure, fridayim,q18,q6
+q26.wav,q26,708, Hey Jude, The Beatles, heyjude,q6,q116
+q27.wav,q27,789, In my life, The Beatles, inmylife,q118,q41
+q28.wav,q28,941, Let it be, The Beatles, letitbe,q61,q42
+q29.wav,q29,1194, Nothing else matters, Metallica, nothing,q30,q43
+q30.wav,q30,1441, Seek and destroy, Metallica, seekdestr,q29,q35
+q31.wav,q31,1564, Stand by me, Ben E King, standbyme,q94,q41
+q32.wav,q32,1616, Smells like teen spirit, Nirvana, teenspirit,q100,q40
+q33.wav,q33,2031, My Sharona, The Knack, mysharona,q58,q39
+q34.wav,q34,204, Bohemian Rapsody, Queen, bohemianr,q35,q48
+q35.wav,q35,2063, We will rock you, Queen, wewillrock,q34,q51
+q36.wav,q36,1066, Mediterraneo, Joan Manuel Serrat, mediterran,q20,q47
+q37.wav,q37,1209, No woman no cry, Bob Marley, nowomanno,q62,q52
+q38.wav,q38,1224, Ob la di ob la da, The Beatles, obladi,q67,q53
+q39.wav,q39,1564, Stand by me, Ben E King, standbyme,q46,q58
+q40.wav,q40,1592, Yellow submarine, The Beatles, submarine,q74,q68
+q41.wav,q41,1719, You have got a friend, Carole King, ugotafrie,q43,q27
+q42.wav,q42,1806, What the world needs now, Jackie DeShannon, whatthewo,q41,q50
+q43.wav,q43,1832, Wish you were here, Pink Floyd, wishyouw,q42,q58
+q44.wav,q44,1835, What a wonderful world, Louis Armstrong, wonderfulwo,q47,q69
+q45.wav,q45,2045, Over the rainbow, Judy Garland, overrainbow,q69,q74
+q46.wav,q46,2056, Sweet home Alabama, Lynyrd Skynyrd, sweethome,q52,q112
+q47.wav,q47,1142, You make me feel like a natural woman, Aretha Franklin, naturalwom,q44,q75
+q48.wav,q48,1411, Samba de uma nota so, Joao Gilberto, samba1nota,q88,q101
+q49.wav,q49,1568, Stormy weather, Ethel Waters, stormywea,q45,q67
+q50.wav,q50,1786, Wave, Antonio Carlos Jobim, wave,q80,q83
+q51.wav,q51,2045, Over the rainbow, Judy Garland, overrainbow,q81,q63
+q52.wav,q52,2146, Proud Mary, Creedence Clearwater Revival, proudmary,q46,q95
+q53.wav,q53,14, Dos gardenias, Bobby Capo, 2gardeni,q54,q109
+q54.wav,q54,1747, Vivir asi es morir de amor, Camilo Sesto, vivirasies,q53,q107
+q55.wav,q55,2056, Sweet home Alabama, Lynyrd Skynyrd, sweethome,q75,q87
+q56.wav,q56,281, Chica de ayer, Nacha pop, chicaayer,q115,q90
+q57.wav,q57,941, Let it be, The Beatles, letitbe,q61,q96
+q58.wav,q58,1237, One, U2, one,q33,q76
+q59.wav,q59,1396, Roxanne, The Police, roxanne,q74,q61
+q60.wav,q60,1510, Smoke on the water, Deep Purple, smokewtr,q68,q62
+q61.wav,q61,1849, Yesterday, The Beatles, yesterday,q71,q63
+q62.wav,q62,2015, White Christmas, Bing Crosby, whitechri,q73,q70
+q63.wav,q63,391, Desafinado, Joao Gilberto, desafinado,q48,q94
+q64.wav,q64,641, Happiness is a warm gun, The Beatles, happiness,q74,q79
+q65.wav,q65,912, Lady Marmalade, The Eleventh Hour, ladymarm,q95,q117
+q66.wav,q66,941, Let it be, The Beatles, letitbe,q78,q106
+q67.wav,q67,965, With a little help from my friends, The Beatles, littlehelp,q77,q103
+q68.wav,q68,98, Angie, The Rolling Stones, angie,q99,q82
+q69.wav,q69,1168, New York New York, Liza Minelli, newyork,q105,q72
+q70.wav,q70,1209, No woman no cry, Bob Marley, nowomanno,q114,q89
+q71.wav,q71,1224, Ob la di ob la da, The Beatles, obladi,q91,q112
+q72.wav,q72,1564, Stand by me, Ben E King, standbyme,q85,q93
+q73.wav,q73,204, Bohemian Rapsody, Queen, bohemianr,q35,q95
+q74.wav,q74,253, Cant buy me love, The Beatles, cantbuy,q92,q101
+q75.wav,q75,479, Enjoy the silence, Depeche Mode, enjoysilen,q84,q80
+q76.wav,q76,646, A hard days night, The Beatles, harddays,q110,q109
+q77.wav,q77,668, Help, The Beatles, help,q67,q65
+q78.wav,q78,70, All my loving, The Beatles, allmyloving,q66,q68
+q79.wav,q79,995, Love me tender, Poulton and Fosdik, lovemetend,q58,q73
+q80.wav,q80,1139, My way, Claude Francois, myway,q81,q89
+q81.wav,q81,1142, You make me feel like a natural woman, Aretha Franklin, naturalwom,q80,q83
+q82.wav,q82,1252, Only you, The Platters, onlyyou,q65,q49
+q83.wav,q83,126, Take the A train, Duke Ellington, atrain,q97,q84
+q84.wav,q84,1719, You have got a friend, Carole King, ugotafrie,q83,q85
+q85.wav,q85,2045, Over the rainbow, Judy Garland, overrainbow,q87,q69
+q86.wav,q86,2074, America, Simon and Garfunkel, america,q93,q72
+q87.wav,q87,2115, I dont want to miss a thing, Aerosmith, inomissath,q68,q73
+q88.wav,q88,276, Chega de saudade, Elizete Cardoso, chegadesau,q98,q79
+q89.wav,q89,646, A hard days night, The Beatles, harddays,q27,q75
+q90.wav,q90,1175, Night and day, Fred Astaire and Claire Luce, nightday,q93,q80
+q91.wav,q91,1488, She said she said, The Beatles, shesaidshe,q118,q86
+q92.wav,q92,1794, We can work it out, The Beatles, wecanwork,q64,q88
+q93.wav,q93,2086, Cecilia, Simon and Garfunkel, cecilia,q86,q87
+q94.wav,q94,2090, Cocaine, J J Cale, cocaine,q80,q100
+q95.wav,q95,2208, That will be the day, The Crickets, thatllbetd,q85,q107
+q96.wav,q96,597, Give peace a chance, Plastic Ono Band, givepeace,q101,q111
+q97.wav,q97,768, Imagine, John Lennon, imagine,q102,q91
+q98.wav,q98,1066, Mediterraneo, Joan Manuel Serrat, mediterran,q103,q82
+q99.wav,q99,1209, No woman no cry, Bob Marley, nowomanno,q117,q104
+q100.wav,q100,1510, Smoke on the water, Deep Purple, smokewtr,q101,q115
+q101.wav,q101,1546, Stairway to heaven, Led Zeppelin, stairway2h,q115,q113
+q102.wav,q102,1576, Strangers in the night, Bert Kaempfert, strangers,q114,q105
+q103.wav,q103,1835, What a wonderful world, Louis Armstrong, wonderfulwo,q112,q108
+q104.wav,q104,2090, Cocaine, J J Cale, cocaine,q80,q109
+q105.wav,q105,2133, More than words, Extreme, morethwor,q109,q110
+q106.wav,q106,768, Imagine, John Lennon, imagine,q94,q113
+q107.wav,q107,814, In the mood, Joe Garland and Andy Razaf, inthemood,q108,q114
+q108.wav,q108,995, Love me tender, Poulton and Fosdik, lovemetend,q107,q90
+q109.wav,q109,1185, No me importa nada, Luz Casal, nomeimpor,q88,q91
+q110.wav,q110,941, Let it be, The Beatles, letitbe,q89,q93
+q111.wav,q111,2113, I dont like mondays, The Boomtown Rats, inomondays,q59,q94
+q112.wav,q112,2026, Born to be wild, Steppenwolf, bort2bwi,q70,q96
+q113.wav,q113,2056, Sweet home Alabama, Lynyrd Skynyrd, sweethome,q99,q97
+q114.wav,q114,479, Enjoy the silence, Depeche Mode, enjoysilen,q89,q98
+q115.wav,q115,1747, Vivir asi es morir de amor, Camilo Sesto, vivirasies,q68,q112
+q116.wav,q116,2024, You really got me, The Kinks, reallygotme,q106,q118
+q117.wav,q117,281, Chica de ayer, Nacha pop, chicaayer,q111,q116
+q118.wav,q118,70, All my loving, The Beatles, allmyloving,q61,q115
